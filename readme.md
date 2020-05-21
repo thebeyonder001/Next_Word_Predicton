@@ -9,4 +9,4 @@ And to use it either upload the embedding in the colab notebooks folder in your 
 file
 
 TRAINED MODEL :
-Link to download the trained model (~70 % accuracy)
+Link to download the trained model (~70 % accuracy): https://drive.google.com/file/d/1p_8AAZUnOn7ULQddTS7Hg1IZ7Lv_9uDU/view?usp=sharing
