@@ -9,7 +9,7 @@ WORD EMBEDDING:
 Word Embedding used: *Glove.6b.100d.txt* by stanford(https://nlp.stanford.edu/projects/glove/)
 And to use it either upload the embedding in the colab notebooks folder in your drive or chamnge the directory in the .ipynb file
 
-*MODEL Spec's*
+MODEL Spec's
 * Input sequence length: 10 words
 * Output: 1 word
 * Used Self Attention Layer for better results
